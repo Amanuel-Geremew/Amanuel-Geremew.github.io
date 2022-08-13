@@ -1,1 +1,6 @@
-# Amanuel-Geremew.github.io
+</head>
+<body>
+    <h1> Hello world</h1>
+    <h2> Hello amuti </h2>
+</body>
+</html>
